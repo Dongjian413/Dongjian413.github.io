@@ -1,0 +1,14 @@
+﻿[
+{
+    "name": "黄瓜",
+    "unit": "kg",
+    "price": 4.5,
+    "currency": "￥",
+    "imgs": [
+        "https://img1.baidu.com/it/u=4209827558,3313054868&fm=253&fmt=auto&app=120&f=JPEG?w=800&h=800",
+        "https://img2.baidu.com/it/u=3820564144,330083440&fm=253&fmt=auto&app=120&f=JPEG?w=1100&h=760",
+        "https://preview.qiantucdn.com/58pic/36/34/15/68H58PICbVcyTbKQN2jFQ_origin_PIC2018.jpg%21w1024_new_small"
+    ],
+    "desc": "精品黄瓜，万中无一的精品"
+}
+]
